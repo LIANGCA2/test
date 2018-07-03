@@ -9,7 +9,6 @@
 6. 推送代码仓库到Github远程仓库（需要在Github中创建一个仓库）
 7. 在Github上修改Readme中的内容并提交
 8. 本地获同步最新版本仓库
-9.test
 ## 作业要求
 1. 使用命令行完成相关操作；
 2. 使用Git管理代码时请尽可能的遵照[Git使用的最佳实践](https://github.com/iamcoach/git)。
